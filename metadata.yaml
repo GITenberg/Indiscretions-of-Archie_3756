@@ -1,0 +1,57 @@
+_repo: Indiscretions-of-Archie_3756
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wodehouse, P. G. (Pelham Grenville)
+    aliases:
+    - Windham, Basil
+    - Wodehouse, Pelham Grenville
+    birthdate: 1881
+    deathdate: 1975
+    gutenberg_agent_id: '783'
+    url: http://www.gutenberg.org/2009/agents/783
+    wikipedia: http://en.wikipedia.org/wiki/P._G._Wodehouse
+description: "Indiscretions of Archie is a novel by P. G. Wodehouse, first published\
+  \ in the United Kingdom on 14 February 1921 by Herbert Jenkins, London, and in the\
+  \ United States on 15 July 1921 by George H. Doran, New York.\nThe book was adapted\
+  \ from a series of short stories, originally serialised in the Strand in the United\
+  \ Kingdom between March 1920 and February 1921, and, all except one, in Cosmopolitan\
+  \ in the United States between May 1920 and February 1921. The stories were rewritten\
+  \ and reorganised to create a more flowing novel form.\nThe one story that was not\
+  \ published in Cosmopolitan, \"Strange Experience of an Artist's Model\", was collected\
+  \ in Wodehouse on Crime (1981) under the title \"Indiscretions of Archie\".\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2008-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3756'
+  wikidata: Q4317690
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Married men -- Fiction'
+- !lcsh 'Hotels -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcc 'PR'
+- !lcsh 'World War, 1914-1918 -- Veterans -- Fiction'
+- !lcsh 'British -- United States -- Fiction'
+- !lcsh 'Fathers-in-law -- Fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- GITenberg
+tableOfContents: Distressing scene -- A shock for Mr. Brewster -- Mr. Brewster delivers
+  sentence -- Work wanted -- Strange experiences of an artist's model -- The bomb
+  -- Mr. Roscoe Sherriff has an idea -- A disturbed night for dear old Squiffy --
+  A letter from Parker -- Doing Father a bit of good -- Salvatore chooses the wrong
+  moment -- Bright eyes, and a fly -- Rallying round Percy -- The sad case of Looney
+  Biddle -- Summer storms -- Archie accepts a situation -- Brother Bill's romance
+  -- The Sausage Chappie -- Reggie comes to life -- The Sausage Chappie Clicks --
+  The growing boy -- Washy steps into the hall of fame -- Mother's knee -- The melting
+  of Mr. Connolly -- The Wigmore Venus -- A tale of a grandfather.
+title: Indiscretions of Archie
+url: http://www.gutenberg.org/ebooks/3756
+wikipedia:
+- https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D1%81%D0%BE%D0%BA%D1%80%D1%83%D1%88%D0%B8%D0%BC%D1%8B%D0%B9_%D0%90%D1%80%D1%87%D0%B8
+- https://en.wikipedia.org/wiki/Indiscretions_of_Archie
